@@ -1,4 +1,4 @@
-# Customer Personality Clustering Analysis
+# Customer Personality Clustering + Analysis
 **Web App: https://customer-personality-clustering-analysis.streamlit.app/**
 
 **Goal:**
