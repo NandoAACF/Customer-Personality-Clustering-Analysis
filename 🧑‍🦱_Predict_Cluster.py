@@ -12,7 +12,8 @@ with open('models/kmeans.pickle', 'rb') as f:
 
 def show_cluster():
     st.title('🧑‍🦱 Customer Personality Clustering')
-    with st.form("tes"):
+    
+    with st.form("user_input"):
         st.info('📢 Data will be generated randomly if not filled. Refresh the page to generate new data.')
 
         education = st.selectbox('Education', ("Undergraduate", "Graduate", "Post Graduate"))
