@@ -1,5 +1,10 @@
 import streamlit as st
 
+st.set_page_config(
+    page_title="Insights for Company",
+    page_icon="🏢"
+)
+
 def show_insight_perusahaan():
     st.title('🏭 Insights for Company')
     st.write('Berdasarkan page Cluster Analysis, berikut ada beberapa insight dan masukan untuk perusahaan:')

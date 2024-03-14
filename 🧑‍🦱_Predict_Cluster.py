@@ -2,6 +2,11 @@ import streamlit as st
 import pickle
 import numpy as np
 
+st.set_page_config(
+    page_title="Predict Customer Cluster",
+    page_icon="🧑‍🦱",
+)
+
 with open('models/kmeans.pickle', 'rb') as f:
     model = pickle.load(f)
 

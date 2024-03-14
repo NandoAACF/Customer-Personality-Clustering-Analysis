@@ -1,5 +1,10 @@
 import streamlit as st
 
+st.set_page_config(
+    page_title="Cluster Description",
+    page_icon="🕵️‍♀️"
+)
+
 def show_information():
     st.title('🕵️ Cluster Description')
 
