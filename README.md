@@ -1,11 +1,12 @@
-# Customer Personality Clustering
-**Web App: https://customer-personality-clustering.streamlit.app/**
+# Customer Personality Clustering Analysis
+**Web App: https://customer-personality-clustering-analysis.streamlit.app/**
 
 **Goal:**
-- To cluster customers into groups based on their personality
+- Cluster customers into groups based on their personality
+- Predict the personality of a customer
 - Use multiple models to cluster customers
-- Write explanation about the customers personality of each cluster
-- Visualize and explain about each features of each cluster
+- Write explanation and description about the customers personality of each cluster
+- Visualize and analyze every cluster based on the features
 - Give recommendation for the company based on the analysis and clustering result
 - Deploy the model on the web app
 
