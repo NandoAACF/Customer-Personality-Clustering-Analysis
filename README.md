@@ -1,7 +1,7 @@
-# Customer Personality Clustering + Analysis
-**Web App: https://customer-personality-clustering-analysis.streamlit.app/**
+# 🧑‍🦱 Customer Personality Clustering + Analysis
+**🖥️ Web App: https://customer-personality-clustering-analysis.streamlit.app/**
 
-**Goal:**
+**🔍 Goals:**
 - Cluster customers into groups based on their personality
 - Predict the personality of a customer
 - Use multiple models to cluster customers
@@ -10,7 +10,7 @@
 - Give recommendation for the company based on the analysis and clustering result
 - Deploy the model on the web app
 
-**Model:**
+**💻 Models:**
 - KMeans Clustering (used on the web app)
 - Agglomerative Clustering
 - Birch Clustering
